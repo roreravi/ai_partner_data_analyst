@@ -7,7 +7,7 @@ from core_logic import initialize_chat, process_gemini_response, execute_altair_
 
 # --- Configuración de la Aplicación ---
 st.set_page_config(page_title="🤝 Consultor de Negocios Olist (Gemini + Gráficos)", layout="wide")
-st.title("🤝 Consultor de Negocios Olist")
+st.title("🤝 Consultor de Negocios Prizma - Illuma Alliance")
 st.caption("Pregunta sobre ventas, clientes o productos. Obtén respuestas de negocio, el SQL y, a veces, un gráfico.")
 
 # --- Inicialización ---
